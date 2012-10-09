@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<team_input num_groups="3" minority_id="16">
+
+<question id="17" type="MC" title="Hours per week"><weight value="-3"/></question>
+<question id="20" type="MC" title="Fraternity/Sorority"><weight value="5"/></question>
+
+
+<student username="ZAPFJR@rose-hulman.edu"><response q_id="17" type="MC"><value id="87"/></response><response q_id="20" type="MC"><value id="102"/></response></student>
+<student username="WESTLURH@rose-hulman.edu"><response q_id="17" type="MC"><value id=""/></response><response q_id="20" type="MC"><value id=""/></response></student>
+
+
+<student username="WESSELMD@rose-hulman.edu"><response q_id="17" type="MC"><value id=""/></response><response q_id="20" type="MC"><value id=""/></response></student>
+
+
+<student username="WENNCA@rose-hulman.edu"><response q_id="17" type="MC"><value id=""/></response><response q_id="20" type="MC"><value id=""/></response></student>
+
+
+<student username="VENUGOG@rose-hulman.edu"><response q_id="17" type="MC"><value id="84"/></response><response q_id="20" type="MC"><value id="104"/></response></student>
+
+
+<student username="THORPK@rose-hulman.edu"><response q_id="17" type="MC"><value id="84"/></response><response q_id="20" type="MC"><value id="112"/></response></student>
+
+
+<student username="SPEARMA@rose-hulman.edu"><response q_id="17" type="MC"><value id="85"/></response><response q_id="20" type="MC"><value id="104"/></response></student>
+
+
+<student username="SCHMITSD@rose-hulman.edu"><response q_id="17" type="MC"><value id="87"/></response><response q_id="20" type="MC"><value id="104"/></response></student>
+
+
+<student username="RYANCA@rose-hulman.edu"><response q_id="17" type="MC"><value id="88"/></response><response q_id="20" type="MC"><value id="102"/></response></student>
+
+
+<student username="PULLIATN@rose-hulman.edu"><response q_id="17" type="MC"><value id=""/></response><response q_id="20" type="MC"><value id=""/></response></student>
+
+
+<student username="PONDERJD@rose-hulman.edu"><response q_id="17" type="MC"><value id="86"/></response><response q_id="20" type="MC"><value id="103"/></response></student>
+
+
+<student username="Nicholas.J.Snyder@rose-hulman.edu"><response q_id="17" type="MC"><value id="86"/></response><response q_id="20" type="MC"><value id="108"/></response></student>
+
+
+<student username="MILLERNP@rose-hulman.edu"><response q_id="17" type="MC"><value id="86"/></response><response q_id="20" type="MC"><value id="108"/></response></student>
+
+
+<student username="MIKKELMR@rose-hulman.edu"><response q_id="17" type="MC"><value id="86"/></response><response q_id="20" type="MC"><value id="104"/></response></student>
+
+
+<student username="MEEHLJD@rose-hulman.edu"><response q_id="17" type="MC"><value id="87"/></response><response q_id="20" type="MC"><value id="108"/></response></student>
+
+
+<student username="Matthew.Smith@Rose-Hulman.Edu"><response q_id="17" type="MC"><value id="84"/></response><response q_id="20" type="MC"><value id="104"/></response></student>
+
+
+<student username="KLINEDM@rose-hulman.edu"><response q_id="17" type="MC"><value id="86"/></response><response q_id="20" type="MC"><value id="104"/></response></student>
+
+<student username="PETERLAM@rose-hulman.edu"><response q_id="17" type="MC"><value id="88"/></response><response q_id="20" type="MC"><value id="112"/></response></student>
+
+<student username="EDDIENG@rose-hulman.edu"><response q_id="17" type="MC"><value id="87"/></response><response q_id="20" type="MC"><value id="113"/></response></student>
+<student username="ANTHONYHO@rose-hulman.edu"><response q_id="17" type="MC"><value id="86"/></response><response q_id="20" type="MC"><value id="104"/></response></student>
+
+
+
+
+</team_input>
